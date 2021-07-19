@@ -11,6 +11,6 @@
 <p><b>Database</b>: MongoDB, MySQL, SQLite</p>
 
 # Checkout my work!
-<p><h4>React Native App (ScreenShots in ReadMe)</h4><a href="https://github.com/Leo-Malay/FoodieLeo-Mobile-App">FoodieLeo</a><br/><a href="https://github.com/Leo-Malay/Leo-Movies-Mobile-App">LeoMovies</a></p>
+<p><h4>React Native App (ScreenShots in ReadMe)</h4><a href="https://github.com/Leo-Malay/Instagram-Clone-React-Native">Instagram Clone</a><br/><a href="https://github.com/Leo-Malay/FoodieLeo-Mobile-App">FoodieLeo</a><br/><a href="https://github.com/Leo-Malay/Leo-Movies-Mobile-App">LeoMovies</a></p>
 <p><h4>React App</h4><a href="https://leomovies.herokuapp.com/#/">LeoMovies</a></p>
 <p><h4>E-commerce Website</h4><a href="https://leoworldshop.herokuapp.com/u/home">LeoWorldShop</a></p>
