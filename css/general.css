@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header,
+.footer {
+    color: #fff;
+    background-color: #12232e;
+    padding: 20px 10px;
+    text-align: center;
+}
+.content {
+    text-align: center;
+    justify-content: center;
+    padding: 10px 20px;
+}
+#title {
+    font-size: 35px;
+    font-weight: 700;
+}
+#desc {
+    font-size: 15px;
+}
+#header {
+    font-size: 20px;
+    color: #fff;
+    background-color: #12232e;
+    width: fit-content;
+    padding: 5px 20px;
+    margin: 10px auto;
+}
+/* Skill Section */
+#icons {
+    margin: 0px auto;
+    max-width: 500px;
+}
+#icons img {
+    padding: 5px 10px;
+    transition-duration: 1s;
+}
+#icons img:hover {
+    transform: scale(1.2);
+    padding: 5px 10px;
+}
+#ref a,
+#ref a:active,
+#ref a:visited {
+    font-size: 10px;
+    border: 1px solid #12232e;
+    color: #12232e;
+    text-decoration: none;
+    padding: 2px 5px;
+    border-radius: 50px;
+}
+/* Cetificates Sections */
+#certificate img {
+    max-width: 350px;
+    padding: 5px 10px;
+    margin: 5px;
+    transition-duration: 1s;
+}
+@media only screen and (min-width: 700px) {
+    #certificate img:hover {
+        max-width: 560px;
+        padding: 5px 10px;
+        box-shadow: 0px 8px 8px 0px rgb(0, 0, 0, 0.4);
+    }
+}
+/* Project */
+.card {
+    display: inline-table;
+    text-align: left;
+    width: 350px;
+    height: 200px;
+    border: 0.1px solid #12232e;
+    box-shadow: 0px 8px 8px 0px rgba(0, 0, 0, 0.2);
+    padding: 20px 10px;
+    margin: 10px auto;
+}
+.card #title {
+    font-size: 18px;
+    font-weight: 800;
+}
+.card a,
+.card a:active,
+.card a:visited {
+    color: dodgerblue;
+}
+.parallax {
+    display: block;
+    position: relative;
+    opacity: 0.75;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
