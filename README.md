@@ -7,7 +7,7 @@
 
 # Skills
 <p><b>Languages</b>: Python, JavaScript, Java, C/C++, HTML & CSS</p>
-<p><b>FrameWorks</b>: ReactNative, ReactJS, ExpressJS, NodeJS, Django</p>
+<p><b>FrameWorks</b>: ReactNative, ReactJS, ExpressJS, Fastify, NodeJS, Django</p>
 <p><b>Database</b>: MongoDB, MySQL, SQLite</p>
 
 # Checkout my work!
