@@ -1,7 +1,8 @@
 # Hey, It's me Malay Bhavsar 👋
 ### FullStack Developer, MERN Stack Developer, Software Engineer, Competitive Programmer.
 - 🔭 Always working on something!
-- 🌱 Bachelor of Engineering in Information Technology (2019-2023).
+- 🌱 Master of Science in Computer Science, University of Texas at Dallas (2024-2026).
+- 🌱 Bachelor of Engineering in Information Technology, Gujarat Technological University (2019-2023).
 - 💬 Ask me about Python, Javascript, C/C++, Java, HTML, CSS, anything else you can think off..I will always try to help!
 - 📫 How to reach me? Just mail me -> malaybhavsar.290@gmail.com 😄
 - NPM: <a href="https://www.npmjs.com/~leomalay">leomalay</a>
@@ -11,7 +12,7 @@
 <table>
   <tr>
     <th>Languages</th>
-    <td>Python, JavaScript, Java, C/C++, SQL, HTML, CSS</td>
+    <td>Python, JavaScript, GoLang, Java, C/C++, SQL, HTML, CSS</td>
   </tr>
   <tr>
     <th>FrameWorks</th>
