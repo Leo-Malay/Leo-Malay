@@ -1,8 +1,8 @@
 # Hey, I am Malay Bhavsar 👋
 
-### Actively looking for full-time / Co-Op as `Software Engineer` and `Cyber-Security Analyst` in USA
+#### Actively looking for full-time jobs as `Software Engineer` and `Cyber-Security Analyst` in USA
 
-#### Contact
+#### Contact Me
 If you have an oppoutunity, please reach out to me via email at malaybhavsar.290@gmail.com
 #### Education
 - 🌱 Master of Science in Computer Science, University of Texas at Dallas (2024-2025).
